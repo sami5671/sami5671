@@ -4,7 +4,6 @@
 <img src="https://github.com/sami5671/sami5671/blob/main/images/banner.png">
 </p>
 
-
 - 🌱 I’m currently learning **NextJS, Data Structure in C, Algorithms**
 
 - 📫 How to reach me **samialam5671@gamil.com**
@@ -14,9 +13,9 @@
 # :mailbox: Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/sami5671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami5671" height="50" width="50" /></a>
+<!-- <a href="https://linkedin.com/in/sami5671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami5671" height="50" width="50" /></a>
 <a href="https://fb.com/samialam5559" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samialam5559" height="50" width="50" /></a>
-</p>
+</p> -->
 
 # :computer: Tools & Technologies That I Work With
 
