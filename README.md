@@ -1,5 +1,9 @@
 <h1 align="center">Hi there👋, I'm Md. Sami Alam</h1>
 
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=sami5671&label=Profile%20views&color=0e75b6&style=flat" alt="sami5671" /> 
+</p>
+
 <p style="font-weight: bold">I am Eager to contribute to dynamic
 teams, leveraging modern technologies for
 creating user-friendly web applications.
