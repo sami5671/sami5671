@@ -23,7 +23,9 @@ creating user-friendly web applications.
 # :mailbox: Connect With Me
 
 <div align="left">
+<a href="https://www.linkedin.com/in/sami5671/">
  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn logo" />
+ </a>
 
 <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Facebook logo" />
 
