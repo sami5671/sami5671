@@ -14,17 +14,17 @@ creating user-friendly web applications.
 
 - ⚡ Fun fact **I enjoy learning new things with different challenges.**
 
-## 💼 Professional Experience
-
-- 🌐 Designed and developed fully functional web applications.
-- 🎨 Demonstrated expertise in creating great user experiences and interfaces.
-- 📱 Proficient in implementing responsive design principles.
-
 ###
 
 <img align="right" height="200" src="https://gifdb.com/images/high/couple-laptop-system-coding-n4ikawbchrh2w41k.webp"  />
 
 ###
+
+## 💼 Professional Experience
+
+- 🌐 Designed and developed fully functional web applications.
+- 🎨 Demonstrated expertise in creating great user experiences and interfaces.
+- 📱 Proficient in implementing responsive design principles.
 
 # :mailbox: Connect With Me
 
