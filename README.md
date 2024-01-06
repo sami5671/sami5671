@@ -1,5 +1,8 @@
-<!-- <h1 align="center">Hi there👋, I'm Md. Sami Alam</h1>
+<h1 align="center">Hi there👋, I'm Md. Sami Alam</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sami5671&label=Profile%20views&color=0e75b6&style=flat" alt="sami5671" /> </p>
+I am Eager to contribute to dynamic
+teams, leveraging modern technologies for
+creating user-friendly web applications.
 <p>
 <img src="https://github.com/sami5671/sami5671/blob/main/images/banner.png">
 </p>
@@ -9,6 +12,12 @@
 - 📫 How to reach me **samialam5671@gamil.com**
 
 - ⚡ Fun fact **I enjoy learning new things with different challenges.**
+
+## 💼 Professional Experience
+
+- 🌐 Designed and developed fully functional web applications.
+- 🎨 Demonstrated expertise in creating great user experiences and interfaces.
+- 📱 Proficient in implementing responsive design principles.
 
 # :mailbox: Connect With Me
 
@@ -25,87 +34,6 @@
 # :eyes: Overview
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sami5671&show_icons=true&locale=en&layout=compact" alt="sami5671" /></p>
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sami5671&show_icons=true&locale=en" alt="sami5671" /></p> -->
-
-<!-- Add your banner or logo here -->
-
-# 👋 Hello, I'm [Your Name] - MERN Stack Developer
-
-Passionate about crafting delightful web experiences and building robust applications.
-
-<p>
-<img src="https://github.com/sami5671/sami5671/blob/main/images/banner.png">
-</p>
-## 🚀 Technical Skills
-
-### Front-End Development
-
-- HTML-5
-- Tailwind CSS
-- DaisyUI
-- ReactJS
-- TanStack Query
-- Axios
-
-### Back-End Development
-
-- Node.js
-- Express.js
-
-### Database Management
-
-- MongoDB
-
-### Authentication
-
-- Firebase
-- JWT
-- Axios Interceptor
-
-### Hosting & Deployment
-
-- Vercel
-- Netlify
-
-### Programming Language
-
-- JavaScript
-
-### Tools
-
-- Design: Figma
-- IDE: Visual Studio Code
-
-## 💼 Professional Experience
-
-- 🌐 Designed and developed fully functional web applications.
-- 🎨 Demonstrated expertise in creating great user experiences and interfaces.
-- 📱 Proficient in implementing responsive design principles.
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedinprofile/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-9cf)](https://twitter.com/yourtwitterhandle)
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-## 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-
-## 🚀 Projects
-
-- [Project 1](#) <!-- Replace # with your project link -->
-- [Project 2](#) <!-- Replace # with your project link -->
-- [Project 3](#) <!-- Replace # with your project link -->
-
-Feel free to explore my repositories and collaborate on exciting projects! 🚀
-
-<!-- Add additional sections or badges as needed -->
 
 # :chart_with_upwards_trend: Current Stats
 
