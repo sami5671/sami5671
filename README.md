@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Md. Sami Alam</h1>
+<!-- <h1 align="center">Hi there👋, I'm Md. Sami Alam</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sami5671&label=Profile%20views&color=0e75b6&style=flat" alt="sami5671" /> </p>
 <p>
 <img src="https://github.com/sami5671/sami5671/blob/main/images/banner.png">
@@ -13,7 +13,7 @@
 # :mailbox: Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/sami5671" target="blank"><img align="center" margin="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami5671" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/sami5671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami5671" height="40" width="40" /></a>
 <a href="https://fb.com/samialam5559" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samialam5559" height="40" width="40" /></a>
 </p>
 
@@ -28,8 +28,87 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sami5671&show_icons=true&locale=en" alt="sami5671" /></p> -->
 
+<!-- Add your banner or logo here -->
+
+# 👋 Hello, I'm [Your Name] - MERN Stack Developer
+
+Passionate about crafting delightful web experiences and building robust applications.
+
+<p>
+<img src="https://github.com/sami5671/sami5671/blob/main/images/banner.png">
+</p>
+## 🚀 Technical Skills
+
+### Front-End Development
+
+- HTML-5
+- Tailwind CSS
+- DaisyUI
+- ReactJS
+- TanStack Query
+- Axios
+
+### Back-End Development
+
+- Node.js
+- Express.js
+
+### Database Management
+
+- MongoDB
+
+### Authentication
+
+- Firebase
+- JWT
+- Axios Interceptor
+
+### Hosting & Deployment
+
+- Vercel
+- Netlify
+
+### Programming Language
+
+- JavaScript
+
+### Tools
+
+- Design: Figma
+- IDE: Visual Studio Code
+
+## 💼 Professional Experience
+
+- 🌐 Designed and developed fully functional web applications.
+- 🎨 Demonstrated expertise in creating great user experiences and interfaces.
+- 📱 Proficient in implementing responsive design principles.
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedinprofile/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-9cf)](https://twitter.com/yourtwitterhandle)
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 📈 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+
+## 🚀 Projects
+
+- [Project 1](#) <!-- Replace # with your project link -->
+- [Project 2](#) <!-- Replace # with your project link -->
+- [Project 3](#) <!-- Replace # with your project link -->
+
+Feel free to explore my repositories and collaborate on exciting projects! 🚀
+
+<!-- Add additional sections or badges as needed -->
+
 # :chart_with_upwards_trend: Current Stats
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sami5671&theme=green-nur" alt="GitHub Streak" /></a>
-</p>
+</p> -->
