@@ -22,7 +22,7 @@ creating user-friendly web applications.
 
 ###
 
-<img align="right" height="150" src="https://gifdb.com/images/high/couple-laptop-system-coding-n4ikawbchrh2w41k.webp"  />
+<img align="right" height="200" src="https://gifdb.com/images/high/couple-laptop-system-coding-n4ikawbchrh2w41k.webp"  />
 
 ###
 
