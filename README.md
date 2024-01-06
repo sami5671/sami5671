@@ -22,7 +22,7 @@ creating user-friendly web applications.
 
 # :mailbox: Connect With Me
 
-<p align="center">
+<p>
 <a href="https://linkedin.com/in/sami5671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami5671" height="40" width="40" /></a>
 <a href="https://fb.com/samialam5559" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samialam5559" height="40" width="40" /></a>
 </p>
