@@ -1,8 +1,9 @@
 <h1 align="center">Hi there👋, I'm Md. Sami Alam</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sami5671&label=Profile%20views&color=0e75b6&style=flat" alt="sami5671" /> </p>
-I am Eager to contribute to dynamic
+
+<p>I am Eager to contribute to dynamic
 teams, leveraging modern technologies for
 creating user-friendly web applications.
+</p>
 <p>
 <img src="https://github.com/sami5671/sami5671/blob/main/images/banner.png">
 </p>
