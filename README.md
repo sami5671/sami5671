@@ -1,112 +1,107 @@
-<h1 align="center">Hi there👋, I'm Md. Sami Alam</h1>
+<h1 align="center">Hi 👋, I'm Md. Sami Alam</h1>
 
-<p align="left">
-<img src="https://i.ibb.co.com/xtscFqPM/1776070945388.jpg" /> 
+<p align="center">
+  💻 Software Quality Assurance (SQA) Engineer | 🔍 Testing Enthusiast | 🚀 Continuous Learner
 </p>
 
-<p style="font-weight: bold">I am Eager to contribute to dynamic
-teams, leveraging modern technologies for
-creating user-friendly web applications.
-</p>
-<p>
-<img src="[https://github.com/sami5671/sami5671/blob/main/images/banner.png](https://i.ibb.co.com/xtscFqPM/1776070945388.jpg)">
+<p align="center">
+<img src="https://i.ibb.co.com/xtscFqPM/1776070945388.jpg" width="250"/>
 </p>
 
-- 🌱 I’m currently learning **NextJS, Data Structure in C, Algorithms**
+---
 
-- 📫 How to reach me **samialam5671@gamil.com**
+## 🧠 About Me
 
-- ⚡ Fun fact **I enjoy learning new things with different challenges.**
+I am passionate about ensuring software quality through effective testing strategies and automation.  
+I enjoy breaking systems, finding bugs, and improving user experience by delivering reliable and scalable applications.
 
-###
+- 🌱 Currently learning **Advanced Automation, Next.js Testing & DSA**
+- 🧪 Focused on **Manual & Automation Testing**
+- 📫 Reach me at: **samialam5671@gmail.com**
+- ⚡ Fun fact: I love finding edge cases that others miss 😄
 
-<img align="right" height="200" src="https://gifdb.com/images/high/couple-laptop-system-coding-n4ikawbchrh2w41k.webp"  />
+---
 
-###
+## 💼 SQA Expertise
 
-## 💼 Professional Experience
+### 🔹 Manual Testing
+- Test Planning & Strategy  
+- Test Case Design & Execution  
+- Bug Tracking & Reporting (Jira)  
+- Regression Testing  
+- Agile Methodologies  
 
-- 🌐 Designed and developed fully functional web applications.
-- 🎨 Demonstrated expertise in creating great user experiences and interfaces.
-- 📱 Proficient in implementing responsive design principles.
+### 🔹 Automation Testing
+- Selenium  
+- Playwright  
+- TestNG  
 
-# :mailbox: Connect With Me
+### 🔹 API Testing
+- Postman  
+- Swagger  
 
-<div align="left">
+### 🔹 Database Testing
+- SQL  
+- MySQL  
+- MongoDB  
+- Data Validation  
+
+### 🔹 Performance Testing
+- JMeter  
+- k6  
+
+---
+
+## 💻 Programming Skills
+
+| Language     | Proficiency |
+|--------------|------------|
+| JavaScript   | ████████████████████ 95% |
+| Python       | ██████████████████ 90% |
+| C++          | ████████████████ 80% |
+| TypeScript   | ████████████ 70% |
+| Java         | ████████████ 70% |
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,mongodb,mysql,selenium,postman,figma,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sami5671&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sami5671&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
 <a href="https://www.linkedin.com/in/sami5671/">
- <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn logo" />
- </a>
-
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <a href="https://www.facebook.com/samialam5559">
-<img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Facebook logo" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-
-<a href="https://www.instagram.com/samialam5671?igsh=MWhhbHZhaXBuM2g3dA==">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+<a href="https://www.instagram.com/samialam5671">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
-<a href="https://discord.com/channels/_sami15/10703848257243054">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-</a>
-
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
-
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
-
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-
-</div>
-
-# :computer: Tools & Technologies That I Work With
-
-</br>
-<p align="center">
-
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
-</a> 
- 
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a>
-
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> 
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-</a>
-
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> 
- </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
-  </a>
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> 
- </a>
-
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> 
-  </a>
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a>
 </p>
 
-# :eyes: Overview
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sami5671&show_icons=true&locale=en&layout=compact" alt="sami5671" /></p>
+## 🚀 Goal
 
-# :chart_with_upwards_trend: Current Stats
+To become a **top-tier SQA Engineer** who builds robust testing pipelines, ensures product quality, and contributes to high-impact software systems.
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sami5671&theme=green-nur" alt="GitHub Streak" /></a>
-</p> -->
+---
