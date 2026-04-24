@@ -1,17 +1,14 @@
 <!-- HERO BANNER -->
+<!-- PROFILE IMAGE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Md.%20Sami%20Alam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://i.ibb.co.com/xtscFqPM/1776070945388.jpg" width="800" style="border-radius: 50%" />
 </p>
-
 <h2 align="center">💻 Software Quality Assurance (SQA) Engineer</h2>
 <p align="center">🔍 Testing Enthusiast | 🚀 Automation Learner | ⚡ Bug Hunter</p>
 
 ---
 
-<!-- PROFILE IMAGE -->
-<p align="center">
-  <img src="https://i.ibb.co.com/xtscFqPM/1776070945388.jpg" width="800" style="border-radius: 50%" />
-</p>
+
 
 ---
 
