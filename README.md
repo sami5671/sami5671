@@ -2,12 +2,12 @@
 
 <h2 align="center">💻 Software Quality Assurance (SQA) Engineer</h2>
 <p align="center">🔍 Testing Enthusiast | 🚀 Automation Learner | ⚡ Bug Hunter</p>
----
+
 <!-- PROFILE IMAGE -->
 <p align="center">
   <img src="https://i.ibb.co.com/xtscFqPM/1776070945388.jpg" width="800" style="border-radius: 50%" />
 </p>
----
+
 
 ## 🧠 About Me
 
