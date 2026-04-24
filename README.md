@@ -9,7 +9,7 @@ teams, leveraging modern technologies for
 creating user-friendly web applications.
 </p>
 <p>
-<img src="https://github.com/sami5671/sami5671/blob/main/images/banner.png">
+<img src="[https://github.com/sami5671/sami5671/blob/main/images/banner.png](https://i.ibb.co.com/xtscFqPM/1776070945388.jpg)">
 </p>
 
 - 🌱 I’m currently learning **NextJS, Data Structure in C, Algorithms**
