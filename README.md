@@ -10,7 +10,7 @@
 
 <!-- PROFILE IMAGE -->
 <p align="center">
-  <img src="https://i.ibb.co.com/xtscFqPM/1776070945388.jpg" width="580" style="border-radius: 50%" />
+  <img src="https://i.ibb.co.com/xtscFqPM/1776070945388.jpg" width="800" style="border-radius: 50%" />
 </p>
 
 ---
