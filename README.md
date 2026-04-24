@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Md. Sami Alam</h1>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=sami5671&label=Profile%20views&color=0e75b6&style=flat" alt="sami5671" /> 
+<img src="https://i.ibb.co.com/xtscFqPM/1776070945388.jpg" /> 
 </p>
 
 <p style="font-weight: bold">I am Eager to contribute to dynamic
